@@ -11,7 +11,8 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: 'https://www.nitrd.gov/profile_pics/NITRD-logo.gif'
+profile_pic: >-
+  https://directory.dayda.org/assets/img/entities/networking-and-information-technology-research-and-development.png
 favicon: /assets/img/favicon.png
 url: >-
   http://networking-and-information-technology-research-and-development.dayda.org
